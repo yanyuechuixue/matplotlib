@@ -251,6 +251,7 @@ def boilerplate_gen():
         'tricontourf',
         'tripcolor',
         'triplot',
+        'violinplot_hist',
         'violinplot',
         'vlines',
         'xcorr',
